@@ -1,0 +1,5 @@
+Impact CSS reset makes on the html file...
+
+Before: Everthing super plain and stripped back, very simple html.
+
+After: Defaulted everything, removing all font styles, sizes, heading values, etc.
